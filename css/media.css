@@ -1,0 +1,240 @@
+@media(max-width:1199px){
+    .customize-section p {
+        margin-bottom: 35px;
+    }
+    .btn-view {
+        padding: 7px 17px;
+    }
+    .btn-download {
+        padding: 7px 17px;
+    }
+    .contact-us {
+        padding-bottom: 260px;
+    }
+    .contact-form {
+        padding: 30px 25px;
+        width: 55%;
+    }
+}
+
+
+@media(max-width:991px){
+    .phone {
+        bottom: 130px;
+        right: 45px;
+        width: 40%;
+    }
+    .banner h1 {
+        font-size: 39px;
+        padding-top: 14px;
+    }
+    .banner p {
+        margin-bottom: 40px;
+    }
+    .nav-item {
+        margin: auto;
+        padding-bottom: 13px;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .feature-section {
+        padding-bottom: 50px;
+    }
+    .phone-img {
+        margin-top: 30px;
+        margin-right: 10px;
+    }
+    .details-section .section-title {
+        margin-top: 0px;
+    }
+    .customize-section .section-title {
+        margin-top: 40px;
+    }
+    .customize img{
+        margin-top: 60px;
+    }
+    .like p {
+        font-size: 22px;
+    }
+    .great p {
+        font-size: 22px;
+    }
+    .contact-us {
+        padding-bottom: 250px;
+    }
+    .contact-form {
+        padding: 30px 20px;
+        width: 60%;
+    }
+    .contact-us .section-title span {
+        margin-bottom: 40px;
+    }
+}
+
+
+@media(max-width:767px){
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-item {
+        margin-left: 0px;
+        padding-bottom: 10px;
+    }
+    .banner-mt{
+        margin-top: 45px;
+    }
+    .banner h1 {
+        font-size: 38px;
+    }
+    .feature_items {
+        padding-top: 35px;
+    }
+    .feature-section {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .m-top{
+        margin-top: 25px !important;
+    }
+    .theme-section {
+        padding: 20px 0px;
+    }
+    .text {
+        padding-bottom: 17px;
+    }
+    .contact-form {
+        padding: 30px 25px;
+        width: 75%;
+    }
+    .contact-us {
+        padding-bottom: 350px;
+    }
+    .contact-us {
+        padding-bottom: 370px;
+    }
+    .info {
+        padding-bottom: 30px;
+    }
+    .info i {
+        margin-bottom: 10px;
+    }
+    .contact-us .section-title span {
+        margin-bottom: 34px;
+    }
+    .phone img{
+        display: none;
+    }
+    .btn-view {
+        margin-top: 0px;
+    }
+}
+
+
+@media(max-width:575px){
+    .navbar-brand img{
+        width: 100px;
+    }
+    .nav-item {
+        padding: 7px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin: auto;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .btn-view {
+        padding: 7px 15px;
+    }
+    .btn-download {
+        padding: 7px 15px;
+    }
+    .banner h1 {
+        font-size: 33px;     
+    }
+    .banner {
+        text-align: center;
+        margin-top: 30px;
+        padding-bottom: 50px;
+    }
+    .banner p {
+        margin-bottom: 50px;
+    }
+    .phone {
+        display: none;
+    }
+    .phone-banner-img{
+        display: inherit;
+        text-align: center;
+    }  
+    .phone-banner-img img{
+        width: 280px;
+        text-align: center;
+        margin: auto;
+    } 
+    .feature_items {
+        padding-top: 35px;
+    }
+    .feature-section {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .m-top{
+        margin-top: 25px !important;
+    }
+    .customize-section {
+        padding-top: 20px;
+    }
+    .customize-section .section-title, .details-section .section-title{
+        text-align: center;
+        margin-top: 60px;
+    }
+    .customize-section .section-title span, .details-section .section-title span{
+        margin: auto;
+    }
+    .customize-section p, .details-section p {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .details-section ul li {
+        justify-content: center;
+    }
+    .like p {
+        font-size: 17px;
+    }
+    .great p {
+        font-size: 17px;
+    }
+    .theme-pt{
+        padding-top: 20px;
+    }
+    .text {
+        justify-content: center;
+    }
+    .theme-section {
+        padding-top: 32px;
+    }
+    .price-pt{
+        padding-top: 20px;
+    }
+    .contact-form {
+        padding: 30px 20px;
+        width: 85%;
+    }
+    .contact-us {
+        padding-bottom: 370px;
+    }
+    .info {
+        padding-bottom: 30px;
+    }
+    .info i {
+        margin-bottom: 10px;
+    }
+    .contact-us .section-title span {
+        margin-bottom: 34px;
+    }
+}
